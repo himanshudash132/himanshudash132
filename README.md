@@ -1,5 +1,5 @@
 
-# Hello, I'm Himanshu Das! 👋
+# Hello, I'm Himanshu Dash! 👋
 
 ## About Me
 I'm love working on Web Development, Android Development, Machine Learning, Deep Learning, Computer Vision, and NLP projects.
