@@ -2,7 +2,7 @@
 # Hello, I'm Himanshu Das! 👋
 
 ## About Me
-I'm a Machine Learning Intern based in Bhubaneswar. I love working on Web Development, Android Development, Machine Learning, Deep Learning, Computer Vision, and NLP.
+I'm love working on Web Development, Android Development, Machine Learning, Deep Learning, Computer Vision, and NLP projects.
 
 ## Profile Views
 ![](https://komarev.com/ghpvc/?username=himanshudash132&color=blue)
