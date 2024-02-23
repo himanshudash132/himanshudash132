@@ -11,6 +11,6 @@ I'm love working on Web Development, Android Development, Machine Learning, Deep
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshudash132&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/himanshu-dash-b18395216/))
 - Twitter: [Your Twitter Profile](https://twitter.com/yourusername)
 - Website: [Your Personal Website](https://www.yourwebsite.com/)
