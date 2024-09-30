@@ -3,6 +3,20 @@
 
 "Here, you'll find projects showcasing my expertise in unraveling insights from data and driving informed decisions through analytics. The ambiguity and endless opportunities hidden within datasets have always intrigued me. I echo Sherlock Holmes' sentiment: 'Data, Data, Data. I can't make bricks without clay.' Let's uncover insights and shape the future together."
 
+
+🔭 I’m currently working on:
+Improving cloud-based solutions and implementing microservices architecture.
+
+👯 I’m looking to collaborate on:
+Fullstack projects
+
+🌱 I’m currently learning:
+Advanced AWS Services and GraphQL.
+
+💬 Ask me about:
+Deep learning, NLP, machine learning, AWS, and any general software development questions.
+
+
 # Checkout my portfolio Website
 [![Website](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himanshudash132.github.io/himanshu-portfolio-website/)
 
