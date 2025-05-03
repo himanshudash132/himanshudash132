@@ -16,7 +16,8 @@ Improving cloud-based solutions and implementing microservices architecture.
 - Productionizing deep learning models with Docker & Kubernetes  
 
 💬 Ask me about:
-Deep learning, NLP, computer vision, Python, Django/Flask/FastAPI, Azure/GCP/Docker/Kubernetes, data visualization (Pandas, Power BI, Tableau), and general software development  
+-Deep learning, NLP, computer vision, Python, Django/Flask/FastAPI, Azure/GCP/Docker/Kubernetes, data visualization (Pandas, Power BI, Tableau), and general software 
+  development  
 
 
 # Checkout my portfolio Website
