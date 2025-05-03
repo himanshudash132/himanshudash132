@@ -8,13 +8,15 @@
 Improving cloud-based solutions and implementing microservices architecture.
 
 👯 I’m looking to collaborate on:
-Fullstack projects
+- AI/ML end-to-end pipelines (Automated ML, time series forecasting, adversarial attack research)  
+- Full-stack projects with React dashboards and FastAPI/Django backends  
+- IoT and computer vision integrations for smart-security or traffic-management systems  
 
 🌱 I’m currently learning:
-Advanced AWS Services and GraphQL.
+- Productionizing deep learning models with Docker & Kubernetes  
 
 💬 Ask me about:
-Deep learning, NLP, machine learning, AWS, and any general software development questions.
+Deep learning, NLP, computer vision, Python, Django/Flask/FastAPI, Azure/GCP/Docker/Kubernetes, data visualization (Pandas, Power BI, Tableau), and general software development  
 
 
 # Checkout my portfolio Website
