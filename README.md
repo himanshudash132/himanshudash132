@@ -5,7 +5,7 @@
 
 
 🔭 I’m currently working on:
-Improving cloud-based solutions and implementing microservices architecture.
+- Improving cloud-based solutions and implementing microservices architecture.
 
 👯 I’m looking to collaborate on:
 - AI/ML end-to-end pipelines (Automated ML, time series forecasting, adversarial attack research)  
@@ -16,7 +16,7 @@ Improving cloud-based solutions and implementing microservices architecture.
 - Productionizing deep learning models with Docker & Kubernetes  
 
 💬 Ask me about:
--Deep learning, NLP, computer vision, Python, Django/Flask/FastAPI, Azure/GCP/Docker/Kubernetes, data visualization (Pandas, Power BI, Tableau), and general software 
+- Deep learning, NLP, computer vision, Python, Django/Flask/FastAPI, Azure/GCP/Docker/Kubernetes, data visualization (Pandas, Power BI, Tableau), and general software 
   development  
 
 
